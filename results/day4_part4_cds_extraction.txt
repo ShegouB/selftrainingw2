@@ -1,0 +1,30 @@
+Parsing GenBank file...
+
+Organism : Plasmodium falciparum 3D7
+Accession: NC_004325.2
+Length   : 640,851 bp
+Features : 455
+CDS found: 136
+
+Gene                      Start        End   Strand Product                                 
+------------------------------------------------------------------------------------------
+PF3D7_0100100            29,509     37,126        + erythrocyte membrane protein 1, PfEMP1  
+PF3D7_0100200            38,981     40,207        - rifin                                   
+PF3D7_0100300            42,366     46,507        - erythrocyte membrane protein 1, PfEMP1  
+PF3D7_0100400            50,362     51,636        + rifin                                   
+PF3D7_0100600            53,777     55,006        - rifin                                   
+PF3D7_0100700            56,689     56,893        - Plasmodium exported protein, unknown f  
+PF3D7_0100800            59,771     61,003        + rifin                                   
+PF3D7_0100900            62,186     63,400        - rifin                                   
+PF3D7_0101000            65,816     66,989        - rifin                                   
+PF3D7_0101100            69,303     70,417        - exported protein family 4               
+PF3D7_0101200            71,623     72,426        + exported protein family 3               
+PF3D7_0101300            74,562     75,366        + Pfmc-2TM Maurer's cleft two transmembr  
+PF3D7_0101600            81,764     83,106        - rifin                                   
+PF3D7_0101800            87,202     88,177        - stevor                                  
+PF3D7_0101900            90,241     91,420        - rifin                                   
+PF3D7_0102200            98,818    102,282        + ring-infected erythrocyte surface anti  
+PF3D7_0102300           104,703    105,209        + Plasmodium exported protein, unknown f  
+PF3D7_0102500           110,749    115,799        - erythrocyte binding antigen-181         
+PF3D7_0102600           119,040    121,249        - serine/threonine protein kinase, FIKK   
+PF3D7_0102700           124,516    125,484        + merozoite-associated tryptophan-rich a  

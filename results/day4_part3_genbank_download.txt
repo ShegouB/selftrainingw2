@@ -1,0 +1,4 @@
+=== Part 3 — Entrez GenBank Download ===
+File: data/pfalciparum_chr1.gbk
+Accession: NC_004325.2
+-rw-rw-r-- 1 boris boris 1.1M Jul  6 21:49 data/pfalciparum_chr1.gbk

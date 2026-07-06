@@ -23,7 +23,9 @@ print(f"\n{'Gene':<20} {'Start':>10} {'End':>10} {'Strand':>8} {'Product':<40}")
 print("-" * 90)
 
 for cds in cds_list[:20]:   # first 20 CDS
-    gene    = cds.qualifiers.get("gene",    ["unknown"])[0]
+    gene = (cds.qualifiers.get("locus_tag") or
+        cds.qualifiers.get("gene") or
+        ["unknown"])[0]
     product = cds.qualifiers.get("product", ["unknown"])[0][:38]
     start   = int(cds.location.start)
     end     = int(cds.location.end)
