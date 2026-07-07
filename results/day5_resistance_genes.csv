@@ -1,0 +1,6 @@
+gene,accession,role,length_aa,note,header
+kelch13,XP_001351443,Artemisinin resistance,295,"Mutations C580Y, R539T cause artemisinin resistance",XP_001351443.1 phosphoglucomutase-2 [Plasmodium falciparum 3D7]
+crt,XP_001347509,Chloroquine resistance,323,K76T mutation causes chloroquine resistance,XP_001347509.1 orotidine 5'-phosphate decarboxylase [Plasmodium falciparum 3D7]
+mdr1,XP_001350763,Multidrug resistance,372,N86Y mutation affects lumefantrine susceptibility,"XP_001350763.2 conserved Plasmodium protein, unknown function [Plasmodium falcip"
+dhfr,XP_966441,Pyrimethamine resistance,895,S108N mutation — first step to resistance,XP_966441.2 exocyst complex component 2 [Tribolium castaneum]
+dhps,XP_001350938,Sulfadoxine resistance,1327,A437G + K540E mutations cause sulfadoxine resistance,"XP_001350938.1 erythrocyte membrane protein 1, PfEMP1 [Plasmodium falciparum 3D7"

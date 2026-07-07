@@ -1,0 +1,15 @@
+=== Available NCBI Databases ===
+Total databases: 39
+Bioinformatics-relevant ones:
+  ✓ nucleotide
+  ✓ protein
+  ✓ gene
+  ✓ pubmed
+  ✓ structure
+  ✓ taxonomy
+  ✓ sra
+  ✓ assembly
+
+=== Gene Database Info ===
+Description : Gene database
+Record count: 97,475,569
