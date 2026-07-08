@@ -1,0 +1,5 @@
+gene,locus_tag,accession,role,length_aa,expected_aa,verified,description,note
+crt,PF3D7_0709000,XP_001349004.1,Chloroquine resistance,424,424,YES,chloroquine resistance transporter [Plasmodium falciparum 3D7],K76T mutation — chloroquine resistance transporter
+mdr1,PF3D7_0523000,XP_001351787.1,Multidrug resistance,1419,1419,YES,multidrug resistance protein 1 [Plasmodium falciparum 3D7],N86Y mutation — P-glycoprotein homologue 1
+dhfr,PF3D7_0417200,WHA04252.1,Pyrimethamine resistance,220,608,CHECK,"bifunctional dihydrofolate reductase-thymidylate synthase, partial [Plasmodium f",S108N mutation — dihydrofolate reductase-thymidylate synthase
+dhps,PF3D7_0810800,XP_001349418.1,Sulfadoxine resistance,706,706,YES,hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase [Plasmodiu,A437G + K540E mutations — dihydropteroate synthase
