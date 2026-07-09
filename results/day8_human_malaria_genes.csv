@@ -1,0 +1,5 @@
+symbol,ensembl_id,chromosome,start,end,strand,note
+G6PD,ENSG00000160211,X,154517825,154547584,-,Glucose-6-phosphate dehydrogenase — G6PD deficiency protects vs malaria
+HBB,ENSG00000244734,11,5225464,5229395,-,Hemoglobin beta — sickle cell trait protects vs malaria
+CR1,ENSG00000203710,1,207496147,207641776,+,Complement receptor 1 — P. falciparum rosetting receptor
+GYPA,ENSG00000170180,4,144108904,144140751,-,Glycophorin A — invasion ligand for EBA-175

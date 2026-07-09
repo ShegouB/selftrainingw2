@@ -1,0 +1,4 @@
+gene_name,ensembl_id,role,chromosome,start,end,strand,length_bp
+kelch13,PF3D7_1343700,Artemisinin resistance,Pf3D7_13_v3,1724600,1727877,-,3277
+crt,PF3D7_0709000,Chloroquine resistance,Pf3D7_07_v3,402385,406341,+,3956
+mdr1,PF3D7_0523000,Multidrug resistance,Pf3D7_05_v3,955955,963095,+,7140
