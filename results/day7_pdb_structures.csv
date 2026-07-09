@@ -1,5 +1,6 @@
 pdb_id,gene,drug,n_chains,n_aa,n_ligands,n_atoms,ligand_names
 1P44,inhA,Isoniazid/NADH,6,1608,10,12495,NAD | GEQ
-2X23,inhA,Ethionamide-NAD adduct,4,1072,9,8926,NAD | TCU | DMS
-3PL1,katG,Isoniazid activator,1,185,1,1417,FE2
-3RGK,pncA,Pyrazinamide,1,149,4,1317,SO4 | HEM
+2X23,inhA,Ethionamide-NAD adduct,4,1072,9,8926,TCU | DMS | NAD
+3IFZ,gyrA,Fluoroquinolones,2,960,4,7774,NA | MPD
+2CCA,katG,Isoniazid activator — S315T mutant,2,1430,2,12056,HEM
+3PL1,pncA,Pyrazinamide — Fe2+ active site,1,185,1,1417,FE2

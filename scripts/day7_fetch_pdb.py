@@ -12,41 +12,11 @@ PDB_API      = "https://data.rcsb.org/rest/v1/core/entry"
 
 # PDB IDs for your Day 6 drug targets — verified from RCSB
 STRUCTURES = [
-    {
-        "pdb_id":   "1P44",
-        "gene":     "inhA",
-        "drug":     "Isoniazid",
-        "organism": "M. tuberculosis",
-        "note":     "InhA with bound NADH cofactor — drug binding site",
-    },
-    {
-        "pdb_id":   "2X23",
-        "gene":     "inhA",
-        "drug":     "Ethionamide (inhibitor)",
-        "organism": "M. tuberculosis",
-        "note":     "InhA with ethionamide-NAD adduct — shows resistance mechanism",
-    },
-    {
-        "pdb_id":   "3IFZ",
-        "gene":     "gyrA",
-        "drug":     "Fluoroquinolones",
-        "organism": "M. tuberculosis",
-        "note":     "GyrA TOPRIM domain — fluoroquinolone binding region",
-    },
-    {
-        "pdb_id":   "3PL1",
-        "gene":     "katG",
-        "drug":     "Isoniazid (activator)",
-        "organism": "M. tuberculosis",
-        "note":     "KatG catalase-peroxidase — activates isoniazid prodrug",
-    },
-    {
-        "pdb_id":   "3RGK",
-        "gene":     "pncA",
-        "drug":     "Pyrazinamide",
-        "organism": "M. tuberculosis",
-        "note":     "PncA nicotinamidase — converts pyrazinamide to active form",
-    },
+    {"pdb_id": "1p44", "gene": "inhA", "drug": "Isoniazid/NADH cofactor"},
+    {"pdb_id": "2x23", "gene": "inhA", "drug": "Ethionamide-NAD adduct"},
+    {"pdb_id": "3ifz", "gene": "gyrA", "drug": "Fluoroquinolones"},
+    {"pdb_id": "2cca", "gene": "katG", "drug": "Isoniazid activator — S315T mutant"},
+    {"pdb_id": "3pl1", "gene": "pncA", "drug": "Pyrazinamide — Fe2+ active site"},
 ]
 
 

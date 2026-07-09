@@ -16,9 +16,9 @@ PDB_DIR = "data/pdb"
 STRUCTURES = [
     {"pdb_id": "1p44", "gene": "inhA",  "drug": "Isoniazid/NADH"},
     {"pdb_id": "2x23", "gene": "inhA",  "drug": "Ethionamide-NAD adduct"},
-    {"pdb_id": "3ifl", "gene": "gyrA",  "drug": "Fluoroquinolones"},
-    {"pdb_id": "3pl1", "gene": "katG",  "drug": "Isoniazid activator"},
-    {"pdb_id": "3rgk", "gene": "pncA",  "drug": "Pyrazinamide"},
+    {"pdb_id": "3ifz", "gene": "gyrA",  "drug": "Fluoroquinolones"},
+    {"pdb_id": "2cca", "gene": "katG", "drug": "Isoniazid activator — S315T mutant"},
+    {"pdb_id": "3pl1", "gene": "pncA", "drug": "Pyrazinamide — Fe2+ active site"},
 ]
 
 
