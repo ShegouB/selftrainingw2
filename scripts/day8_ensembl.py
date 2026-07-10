@@ -9,7 +9,7 @@ import time
 import json
 
 ENSEMBL    = "https://rest.ensembl.org"
-ENSEMBL_EG = "https://rest.ensemblgenomes.org"
+ENSEMBL_EG = "https://rest.ensembl.org"
 HEADERS    = {"Content-Type": "application/json"}
 
 
